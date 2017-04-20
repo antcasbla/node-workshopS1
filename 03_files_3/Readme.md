@@ -7,3 +7,4 @@ testear que devuelve lo que se espera.
 
 Requerir readFiles.js desde program.js y llamar a la función.
 
+https://github.com/jyenes/node-workshopS1/tree/master/03_files_3

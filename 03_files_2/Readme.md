@@ -1,8 +1,8 @@
 ## Ejercicio sistema de ficheros II
 
-Modificar el programa anterior, program.js, para que tenga una función que reciba como parámetros el path y la extensión y devuelva un array con los elementos que contienen dicha extensión.
+Pasar un argumento a nuestro programa con la ruta de los ficheros.
 
-Refactorizar el programa anterior llevándonos la función que hemos creado a un fichero p.ej: readFiles.js, una vez extraída, requerimos el fichero readFile desde el fichero de test, he invocaremos a esa función.
-testear que devuelve lo que se espera.
+Usar process.argv para obtener la ruta de los ficheros a listar.
 
-Requerir readFiles.js desde program.js y llamar a la función.
+Pasar otro argumento con el tipo de archivo, para filtrar los ficheros que queremos sacar por pantalla, ejemplo node program.js files js
+

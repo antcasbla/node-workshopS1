@@ -1,0 +1,1 @@
+//leer el directorio actual y sacar un listado por pantalla de los ficheros  que se encuentran en este directorio
